@@ -22,12 +22,11 @@ The following **bonus** features are implemented:
 - [X] Vercel Deployment
 - [X] Media CSS selectors to adapt to mobile screens
 
-## Screenshots
-
-<video src="/Assignment-1/images/screenshots/desktop_rec.mov" title='Desktop Screen Recording' width='' alt='Desktop Screen Recording' />
-![video](/Assignment-1/images/screenshots/desktop_rec.mov)
-<img src="/Assignment-1/images/screenshots/mobile_rec.mp4" title='Mobile Screen Recording' width='' alt='Mobile Screen Recording' />
-
+## Screen Recording
+### Desktop 
+https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment-1/images/screenshots/desktop_rec.mov
+### Mobile
+https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment-1/images/screenshots/mobile_rec.mov
 ## Notes: 
 - Website Content is under 'assignment1.html', index.html only serves as a redirection method for vercel deployment
 - Navbar must be updated to accomodate each page with each assignment
