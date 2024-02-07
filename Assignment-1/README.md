@@ -24,7 +24,8 @@ The following **bonus** features are implemented:
 
 ## Screenshots
 
-<img src="/Assignment-1/images/screenshots/desktop_rec.mov" title='Desktop Screen Recording' width='' alt='Desktop Screen Recording' />
+<video src="/Assignment-1/images/screenshots/desktop_rec.mov" title='Desktop Screen Recording' width='' alt='Desktop Screen Recording' />
+![](/Assignment-1/images/screenshots/desktop_rec.mov)
 <img src="/Assignment-1/images/screenshots/mobile_rec.mp4" title='Mobile Screen Recording' width='' alt='Mobile Screen Recording' />
 
 ## Notes: 
