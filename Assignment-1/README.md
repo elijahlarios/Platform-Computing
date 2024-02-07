@@ -25,7 +25,7 @@ The following **bonus** features are implemented:
 ## Screen Recording
 ### Desktop 
 
-https://github.com/elijahlarios/Platform-Computing/main/Assignment-1/images/screenshots/desktop_rec.mov
+[![Desktop Recording](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FVGX7wTBIT80)](https://youtu.be/VGX7wTBIT80)
 
 ### Mobile
 
