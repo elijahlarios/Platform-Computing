@@ -24,9 +24,13 @@ The following **bonus** features are implemented:
 
 ## Screen Recording
 ### Desktop 
+
 https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment-1/images/screenshots/desktop_rec.mov
+
 ### Mobile
+
 https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment-1/images/screenshots/mobile_rec.mov
+
 ## Notes: 
 - Website Content is under 'assignment1.html', index.html only serves as a redirection method for vercel deployment
 - Navbar must be updated to accomodate each page with each assignment
