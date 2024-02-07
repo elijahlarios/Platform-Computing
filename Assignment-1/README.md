@@ -20,12 +20,12 @@ The following **bonus** features are implemented:
 - [X] Gradient
 - [X] Navbar
 - [X] Vercel Deployment
-
+- [X] Media CSS selectors to adapt to mobile screens
 
 ## Screenshots
 
-<img src="/images/screenshots/desktop.png" title='Desktop Screenshot' width='' alt='Desktop Screenshot' />
-<img src="/images/screenshots/mobile.png" title='Mobile Screenshot' width='' alt='Mobile Screenshot' />
+<img src="/images/screenshots/desktop_rec.mov" title='Desktop Screen Recording' width='' alt='Desktop Screen Recording' />
+<img src="/images/screenshots/mobile_rec.mp4" title='Mobile Screen Recording' width='' alt='Mobile Screen Recording' />
 
 ## Notes: 
 - Website Content is under 'assignment1.html', index.html only serves as a redirection method for vercel deployment
