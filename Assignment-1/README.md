@@ -25,12 +25,12 @@ The following **bonus** features are implemented:
 ## Screen Recording
 ### Desktop 
 
-https://github.com/elijahlarios/Platform-Computing/raw/main/Assignment-1/images/screenshots/desktop_rec.mov
+https://github.com/elijahlarios/Platform-Computing/main/Assignment-1/images/screenshots/desktop_rec.mov
 
 ### Mobile
 
-https://github.com/elijahlarios/Platform-Computing/raw/main/Assignment-1/images/screenshots/mobile_rec.mov
-
+<div style="position:relative; width:100%; height:0px; padding-bottom:216.216%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/1zovrf?muted=1&nocontrols=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe>
+</div>
 ## Notes: 
 - Website Content is under 'assignment1.html', index.html only serves as a redirection method for vercel deployment
 - Navbar must be updated to accomodate each page with each assignment
