@@ -12,7 +12,6 @@ body {
     height: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
-
 }
 .navbar {
     display: flex;
@@ -31,7 +30,7 @@ body {
     text-align: center;
     align-items: center;
     justify-content: center;
-
+    min-height: 100vh;
 }
 .main__header {
     margin:  10px ;
@@ -56,11 +55,7 @@ body {
 }
 
 .header__box {
-    /* border-radius: 15px; */
     margin: auto;
-    /* background-color: rgba(255,255,255,0.1); */
-
-    /* box-shadow: 500px rgb(82, 43, 43); */
 }
 img {
     margin: 10px;
@@ -95,10 +90,6 @@ img {
     padding-right: 30px;
 }
 .footer {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
     width: 100%;
     background-color: rgba(255,255,255,0.21);
     border-radius: 5px;
