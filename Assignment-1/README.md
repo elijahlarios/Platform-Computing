@@ -1,4 +1,5 @@
 # Assignment 1 - About Me
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 The task provided was to create an about me page which features images, paragraphs, and a general implementation of HTML and CSS.
 
@@ -16,15 +17,17 @@ The following **required** features are completed:
 The following **bonus** features are implemented:
 - [X] Applies different font(s). (0.5 pt)
 - [X] Applies border and margins. (0.5 pt)
-- [ ] Gradient
-- [ ] Navbar
-- [ ] Vercel Deployment
+- [X] Gradient
+- [X] Navbar
+- [X] Vercel Deployment
+
 
 ## Screenshots
 
-<img src="/images/screenshots/page.jpg" title='Webpage Screenshot' width='' alt='Webpage Screenshot' />
+<img src="/images/screenshots/desktop.png" title='Desktop Screenshot' width='' alt='Desktop Screenshot' />
+<img src="/images/screenshots/mobile.png" title='Mobile Screenshot' width='' alt='Mobile Screenshot' />
 
 ## Notes: 
 
-- [ ] Still havent finished navbar
+- [X] Navbar must be updated to accomodate each page with each assignment
 - [ ] Deployment landing shoulld be updated to enforce React main page and feature options to open each assignment

@@ -50,6 +50,8 @@ body {
     display: flex;
     flex-direction: row;
     align-items: center;
+    text-align: right;
+    justify-content: center;
     margin: auto;
 }
 
@@ -60,7 +62,9 @@ body {
 
     /* box-shadow: 500px rgb(82, 43, 43); */
 }
-
+img {
+    margin: 10px;
+}
 .circular_image {
     border-radius: 50%;
     min-width: 100px;
@@ -68,6 +72,16 @@ body {
     min-height: 100px;
 
 }
+.circular_image__container {
+    border-radius: 50%;
+    min-width: 400px;
+    max-width: 400px;
+    min-height: 100px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
 .squircular_image {
     border-radius: 5px;
     min-width: 200px;
@@ -75,19 +89,40 @@ body {
     min-height: 100px;
 
 }
-
-
-/* device is tablet */
-@media screen and (min-width: 900px) {
-    .container {
-        /* flex-direction: row; */
-    }
+.main__body {
+    margin: 25px;
+    max-width: 300px;
+    padding-right: 30px;
+}
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: rgba(255,255,255,0.21);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.github-mark {
+    width: 30px;
+    height: auto;
+}
+.github-mark:hover {
+    transition: 0.4s;
+    filter: invert(100%);
 }
 
+
+/* only tmp implementation */
 /* device is phone */
-@media screen and (max-width: 900px) {
-    .container {
+@media screen and (max-width: 768px) {
+    .p__row {
+        flex-direction: column;
+        text-align: center;
 
     }
 }
-
