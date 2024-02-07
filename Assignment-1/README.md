@@ -22,15 +22,14 @@ The following **bonus** features are implemented:
 - [X] Vercel Deployment
 - [X] Media CSS selectors to adapt to mobile screens
 
-## Screen Recording
+## Screen Recording (Youtube Links)
 ### Desktop 
 
 [![Desktop Recording](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FVGX7wTBIT80)](https://youtu.be/VGX7wTBIT80)
 
 ### Mobile
 
-https://streamable.com/e/1zovrf?muted=1&nocontrols=1
-
+[![Mobile Recording](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fc5Mc12zDRJ4)](https://www.youtube.com/embed/c5Mc12zDRJ4)
 ## Notes: 
 - Website Content is under 'assignment1.html', index.html only serves as a redirection method for vercel deployment
 - Navbar must be updated to accomodate each page with each assignment
