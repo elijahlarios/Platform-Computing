@@ -28,6 +28,6 @@ The following **bonus** features are implemented:
 <img src="/images/screenshots/mobile.png" title='Mobile Screenshot' width='' alt='Mobile Screenshot' />
 
 ## Notes: 
-
-- [X] Navbar must be updated to accomodate each page with each assignment
-- [ ] Deployment landing shoulld be updated to enforce React main page and feature options to open each assignment
+- Website Content is under 'assignment1.html', index.html only serves as a redirection method for vercel deployment
+- Navbar must be updated to accomodate each page with each assignment
+- Deployment landing shoulld be updated to enforce React main page and feature options to open each assignment

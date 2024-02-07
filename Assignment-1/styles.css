@@ -103,7 +103,7 @@ img {
     background-color: rgba(255,255,255,0.21);
     border-radius: 5px;
     margin-bottom: 20px;
-    margin-top: 10px;
+    margin-top: auto;
     padding-top: 5px;
     padding-bottom: 5px;
 }
