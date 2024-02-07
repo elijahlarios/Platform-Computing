@@ -30,6 +30,7 @@ The following **bonus** features are implemented:
 ### Mobile
 
 [![Mobile Recording](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fc5Mc12zDRJ4)](https://www.youtube.com/embed/c5Mc12zDRJ4)
+
 ## Notes: 
 - Website Content is under 'assignment1.html', index.html only serves as a redirection method for vercel deployment
 - Navbar must be updated to accomodate each page with each assignment
