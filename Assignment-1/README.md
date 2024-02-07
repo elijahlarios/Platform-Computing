@@ -24,8 +24,8 @@ The following **bonus** features are implemented:
 
 ## Screenshots
 
-<img src="/images/screenshots/desktop_rec.mov" title='Desktop Screen Recording' width='' alt='Desktop Screen Recording' />
-<img src="/images/screenshots/mobile_rec.mp4" title='Mobile Screen Recording' width='' alt='Mobile Screen Recording' />
+<img src="/Assignment-1/images/screenshots/desktop_rec.mov" title='Desktop Screen Recording' width='' alt='Desktop Screen Recording' />
+<img src="/Assignment-1/images/screenshots/mobile_rec.mp4" title='Mobile Screen Recording' width='' alt='Mobile Screen Recording' />
 
 ## Notes: 
 - Website Content is under 'assignment1.html', index.html only serves as a redirection method for vercel deployment
