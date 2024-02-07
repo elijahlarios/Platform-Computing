@@ -1,5 +1,4 @@
 # Platform-Computing
-## CSE 4500: Section 1
-## Spring 2024
+### CSE 4500 - Section 1 - Spring 2024 - CSUSB
 ### Professor: Dr. Quon
-### Elijah Larios
+### Code by Elijah Larios
