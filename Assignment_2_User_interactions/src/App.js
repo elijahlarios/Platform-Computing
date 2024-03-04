@@ -1,6 +1,6 @@
 import './App.css';
 import Navbar from './components/Navbar';
-import Footer from './components/Footer/';
+import Footer from './components/Footer';
 import Honda from './images/honda_chevy.jpg'
 import Clash from './images/clash.png'
 import Osis from './images/obama_ice_spice.jpeg'
