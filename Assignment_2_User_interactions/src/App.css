@@ -55,3 +55,6 @@ img {
     justify-content: center;
     margin: auto;
 }
+.main-header {
+    outline: none;
+}

@@ -16,3 +16,6 @@
     transition: 0.4s;
     filter: invert(100%);
 }
+.footer-item {
+    list-style-type: none;
+}
