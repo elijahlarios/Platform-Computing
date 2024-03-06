@@ -29,7 +29,7 @@ The following **bonus** features are implemented:
 
 <img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
 
-<h2 style='border-bottom=0'> Notes</h2>
+### Notes
 
 [^1]: Output shows 3 measurements, however a total of 6 are saved to csv file
 
