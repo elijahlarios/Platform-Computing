@@ -1,5 +1,5 @@
 import './Navbar.css'
-import { PageData } from './PageData'
+import { NavbarData } from './NavbarData'
 
 
 function Navbar() {
@@ -12,7 +12,7 @@ function Navbar() {
                 </a>
             </h1>
             <ul className='page-item'>
-            {PageData.map((item, index) => {
+            {NavbarData.map((item, index) => {
                 return (
                     <li key={index}>
                         <a href={item.path} className={item.cName}>
