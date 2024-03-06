@@ -29,12 +29,16 @@ The following **bonus** features are implemented:
 | Description | Video |
 | --- | --- |
 | About Me Page | ![About Me on React](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/About_me_on_React.png) |
-| git diff | Show file differences that haven't been staged |
+| Selenium Tutorial Gif | ![Selenium Tutorial Gif](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/Readme_Gifs/Selenium_tutorial.gif) |
+| Selenium Output | ![Selenium Output](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/selenium_tutorial_output.png) |
+| Metric Tracker Gif | ![Metric Tracker Gif](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/Readme_Gifs/metric_tracker.gif) |
+| Metric Output | ![Metric Output](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/metric_tracker_output.png) |
+
 
 ![About Me on React](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/About_me_on_React.png)
 ![Selenium Tutorial Gif](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/Readme_Gifs/Selenium_tutorial.gif)
 ![Selenium Output](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/selenium_tutorial_output.png)
-![Metric Tracker Gif Tutorial Gif](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/Readme_Gifs/metric_tracker.gif)
+![Metric Tracker Gif](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/Readme_Gifs/metric_tracker.gif)
 ![Metric Output](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/metric_tracker_output.png)
 
 
