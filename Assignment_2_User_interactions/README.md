@@ -34,14 +34,6 @@ The following **bonus** features are implemented:
 | Metric Tracker Gif | ![Metric Tracker Gif](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/Readme_Gifs/metric_tracker.gif) |
 | Metric Output | ![Metric Output](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/metric_tracker_output.png) |
 
-
-![About Me on React](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/About_me_on_React.png)
-![Selenium Tutorial Gif](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/Readme_Gifs/Selenium_tutorial.gif)
-![Selenium Output](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/selenium_tutorial_output.png)
-![Metric Tracker Gif](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/Readme_Gifs/metric_tracker.gif)
-![Metric Output](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/metric_tracker_output.png)
-
-
 ### Notes
 
 [^1]: Output shows 3 measurements, however a total of 6 are saved to csv file
