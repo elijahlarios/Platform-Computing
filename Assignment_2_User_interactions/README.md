@@ -12,7 +12,7 @@ The following **required** features are completed:
 - [X] Transfer your About Me Page into a React App with screenshot of output in the Images folder(3 pt)
 - [X] Set up Selenium (2 pt)
 - [X] Write your first Selenium script with screenshot of output in the Images folder (4 pt)
-- [X] [^1]Monitor at least 2 metrics using Selenium with screenshot of output in the Images folder (4 pt)
+- [X] Monitor at least 2 metrics using Selenium with screenshot of output in the Images folder (4 pt)[^1]
 
 
 The following **bonus** features are implemented:
@@ -29,6 +29,5 @@ The following **bonus** features are implemented:
 <img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
 
 
-## Notes:
 [^1]: Output shows 3 measurements, however a total of 6 are saved to csv file
 
