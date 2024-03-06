@@ -26,8 +26,12 @@ The following **bonus** features are implemented:
     - Refactored Footer and Navbar into components
 
 ## Screenshot and/or Video Walkthrough
+![About Me on React](https://github.com/elijahlarios/Platform-Computing/blob/master/react.png)
+![Selenium Tutorial Gif](https://github.com/elijahlarios/Platform-Computing/blob/master/selenium.gif)
+![Selenium Output](https://github.com/elijahlarios/Platform-Computing/blob/master/selenium.png)
+![Metric Tracker Gif Tutorial Gif](https://github.com/winnie1312/grab/blob/master/metric.gif)
+![Metric Output](https://github.com/elijahlarios/Platform-Computing/blob/master/metric.png)
 
-<img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
 
 ### Notes
 
