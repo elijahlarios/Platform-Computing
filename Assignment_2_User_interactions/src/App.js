@@ -12,7 +12,7 @@ function App() {
         <Navbar />
         <div class="container">
             <div class="header-box">
-                <h1 class="main-header" contentEditable="true">About Me</h1>
+                <h1 class="main-header" contentEditable="true" id="abt">About Me</h1>
             </div>
             <div class="p-row" id="section1">
                 <p class="main-body">My name is Elijah Larios. In my free time, I usually listen to music (usually r&b or electronic) or play video games.</p>
