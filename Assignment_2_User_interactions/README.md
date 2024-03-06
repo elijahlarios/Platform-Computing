@@ -1,7 +1,7 @@
 
-# Metric Tracker[^1]
+# Metric Tracker
 
-This project tasked us with transferring our static HTML page from assignment 1 into a page which utilizes javascript and the react library. We then utilize Selenium to track metrics about user interaction within the webpage.
+This project tasked us with transferring our static HTML page from assignment 1 into a page which utilizes javascript and the react library. We then utilize Selenium to track metrics about user interaction within the webpage. Deliverables include a new readme[^1], images, and all code for the project.
 
 Time spent: **6** hours spent in total, counting class time
 
