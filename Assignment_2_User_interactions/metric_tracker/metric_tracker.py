@@ -33,7 +33,7 @@ while presence_time <= 50:
     # track scrolling
     scroll_height = driver.execute_script(SCROLL_HEIGHT)
     current_scroll = driver.execute_script(CURRENT_SCROLL)
-    print(f"Scrolled {current_scroll}/{scroll_height} pixels")
+    print(f"Current Scroll Pos: {current_scroll}/{scroll_height} pixels")
     if current_scroll > max_current_scroll:
         max_current_scroll = current_scroll
     time.sleep(2)
