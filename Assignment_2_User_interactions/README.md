@@ -36,5 +36,5 @@ The following **bonus** features are implemented:
 
 ### Notes
 [^1]: This file was renamed to README.md from A2_Readme.md so that github can parse the file when viewing the Repo
-[^2]: Output shows 3 measurements, however a total of 6 are saved to csv file
+[^2]: Output shows 3 measurements, however a total of 6 are saved to [csv file](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/metric_tracker/metrics.csv)
 
