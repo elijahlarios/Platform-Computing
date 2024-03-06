@@ -1,4 +1,4 @@
-export const PageData = [
+export const NavbarData = [
     {
         title: 'Assignment 1',
         path: '/assignment1',
