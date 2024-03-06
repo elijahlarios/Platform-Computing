@@ -1,7 +1,7 @@
 
-# Metric Tracker
+# Metric Tracker[^1]
 
-PROVIDE OVERVIEW OF ASSIGNMENT HERE
+This project tasked us with transferring our static HTML page from assignment 1 into a page which utilizes javascript and the react library. We then utilize Selenium to track metrics about user interaction within the webpage.
 
 Time spent: **6** hours spent in total, counting class time
 
@@ -13,7 +13,7 @@ The following **required** features are completed:
 - [X] Transfer your About Me Page into a React App with screenshot of output in the Images folder(3 pt)
 - [X] Set up Selenium (2 pt)
 - [X] Write your first Selenium script with screenshot of output in the Images folder (4 pt)
-- [X] Monitor at least 2 metrics using Selenium with screenshot of output in the Images folder (4 pt)[^1]
+- [X] Monitor at least 2 metrics using Selenium with screenshot of output in the Images folder (4 pt)[^2]
 
 
 The following **bonus** features are implemented:
@@ -35,6 +35,6 @@ The following **bonus** features are implemented:
 | Metric Output | ![Metric Output](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/metric_tracker_output.png) |
 
 ### Notes
-
-[^1]: Output shows 3 measurements, however a total of 6 are saved to csv file
+[^1]: This file was renamed to README.md from A2_Readme.md so that github can parse the file when viewing the Repo
+[^2]: Output shows 3 measurements, however a total of 6 are saved to csv file
 
