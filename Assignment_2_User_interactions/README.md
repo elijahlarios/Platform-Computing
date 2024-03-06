@@ -26,7 +26,7 @@ The following **bonus** features are implemented:
     - Refactored Footer and Navbar into components
 
 ## Screenshot and/or Video Walkthrough
-| Description | Video |
+| Description | Image |
 | --- | --- |
 | About Me Page | ![About Me on React](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/About_me_on_React.png) |
 | Selenium Tutorial Gif | ![Selenium Tutorial Gif](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/Readme_Gifs/Selenium_tutorial.gif) |
