@@ -2,6 +2,12 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 import pandas as pd
+import firebase_admin
+from firebase_admin import firestore, credentials, db
+
+cred = credentials.Certificate("firebaseKey.json")
+app = firebase_admin.initialize_app(cred)
+db = firestore.client()
 
 driver = webdriver.Edge()
 
@@ -66,3 +72,6 @@ data = {
 }
 df = pd.DataFrame(data)
 df.to_csv('metrics.csv', index=False)
+
+doc_ref = db.collection("timestamp").document("alovelace")
+doc_ref.set({"first": "Ada", "last": "Lovelace", "born": 1815})
