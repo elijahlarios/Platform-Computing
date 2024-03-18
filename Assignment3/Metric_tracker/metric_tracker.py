@@ -31,7 +31,7 @@ start_time = time.time()
 current_time = 0
 presence_time= 0
 max_current_scroll = 0
-while presence_time <= 10: #TODO: Change time to 50 for prod
+while presence_time <= 60: #TODO: Change time to 50 for prod
     # get time user is active
     current_time = round(time.time(), 2)
     presence_time = abs(round(current_time - start_time, 2))
@@ -43,7 +43,7 @@ while presence_time <= 10: #TODO: Change time to 50 for prod
     print(f"Current Scroll Pos: {current_scroll}/{scroll_height} pixels")
     if current_scroll > max_current_scroll:
         max_current_scroll = current_scroll
-    time.sleep(2)
+    time.sleep(10)
 
     # track clicks (utilizes JS function outside of loop)
     if about_header.text != "About Me":
@@ -52,9 +52,24 @@ while presence_time <= 10: #TODO: Change time to 50 for prod
         # clicks = int(click_amt)
         click_amt = ''.join(click for click in about_header.text if click.isdigit())
         clicks = int(click_amt)
-
     else: 
         print("Clicks: 0")
+    
+    # add to db for current timestamp
+    db_time = time.strftime("%H:%M:%S", time.localtime())
+
+    doc_ref = db.collection("timestamp").document(f"{db_time}")
+    doc_ref.set(
+        {
+            'presence time': presence_time,
+            'pixels scrolled': current_scroll,
+            'clicks': clicks,
+            'title': title,
+            'header': initial_header,
+            # 'paragraph contents': flattened_p_elems
+        }
+    )
+
 
 paragraphs = driver.find_elements(by=By.CLASS_NAME, value='main-body')
 for p in paragraphs:
@@ -74,15 +89,5 @@ data = {
 df = pd.DataFrame(data)
 df.to_csv('metrics.csv', index=False)
 
-flattened_p_elems = list(chain.from_iterable(p_elems))
-doc_ref = db.collection("timestamp").document(f"{presence_time}")
-doc_ref.set(
-    {
-        'presence time': presence_time,
-        'pixels scrolled': max_current_scroll,
-        'clicks': clicks,
-        'title': title,
-        'header': initial_header,
-        'paragraph contents': flattened_p_elems
-    }
-)
+# flattened_p_elems = list(chain.from_iterable(p_elems))
+
