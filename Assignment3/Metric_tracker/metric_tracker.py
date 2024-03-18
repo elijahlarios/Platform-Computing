@@ -4,6 +4,7 @@ import time
 import pandas as pd
 import firebase_admin
 from firebase_admin import firestore, credentials, db
+from itertools import chain
 
 cred = credentials.Certificate("firebaseKey.json")
 app = firebase_admin.initialize_app(cred)
@@ -30,7 +31,7 @@ start_time = time.time()
 current_time = 0
 presence_time= 0
 max_current_scroll = 0
-while presence_time <= 50:
+while presence_time <= 10: #TODO: Change time to 50 for prod
     # get time user is active
     current_time = round(time.time(), 2)
     presence_time = abs(round(current_time - start_time, 2))
@@ -73,5 +74,15 @@ data = {
 df = pd.DataFrame(data)
 df.to_csv('metrics.csv', index=False)
 
-doc_ref = db.collection("timestamp").document("alovelace")
-doc_ref.set({"first": "Ada", "last": "Lovelace", "born": 1815})
+flattened_p_elems = list(chain.from_iterable(p_elems))
+doc_ref = db.collection("timestamp").document(f"{presence_time}")
+doc_ref.set(
+    {
+        'presence time': presence_time,
+        'pixels scrolled': max_current_scroll,
+        'clicks': clicks,
+        'title': title,
+        'header': initial_header,
+        'paragraph contents': flattened_p_elems
+    }
+)
