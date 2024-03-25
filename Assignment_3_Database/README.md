@@ -18,18 +18,21 @@ The following **bonus** features are implemented:
 
 - [X] Retrieve values from the database (1 pt).
 - [ ] Create separate Tables (SQL) or Documents (NoSQL) for each metric and relate them via user (2 pt).
+    - Can be implemented later, but I was unsure of what this fully meant.  
 - [X] DESCRIBE ANY OTHER FEATURES HERE.
     - Currently records timestamp of entrance and exit for each user, with metrics for each timestamp.
         - Final timestamp "EXIT" features more information about the webpage, like paragprah contents.
 
 ## Screenshot and/or Video Walkthrough
+| Description | Image |
+| --- | --- |
+| SQL Mystery 1 | ![SQL Mystery 1](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/About_me_on_React.png) |
+| SQL Mystery 2 | ![SQL Mystery 2](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/Readme_Gifs/Selenium_tutorial.gif) |
+| MongoDB | ![MongoDB](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_3_Database/Images/mongodb%20tutorial.png) |
+| DB Results on Entrance | ![DB Results on Entrance](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/Readme_Gifs/metric_tracker.gif) |
+| DB Results (General) | ![DB Results (General)](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/metric_tracker_output.png) |
+| DB Results On Exit | ![DB Results On Exit](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/metric_tracker_output.png) |
 
-<img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
-
-
-## Notes:
-PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
-<ul>
-  <li>**Example in bold**</li>
-  <li>*Example in italics*</li>
-</ul>
+### Notes
+[^1]: This file was renamed to README.md from A3_Readme.md so that github can parse the file when viewing the Repo
+[^2]: The NoSQL database I implemented was Firebase. Each document is an actual timestamp, placed inside of a timestamp collection
