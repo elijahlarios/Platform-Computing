@@ -1,6 +1,6 @@
 # Metric Tracker with Database
 
-This project tasked us with transferring our static HTML page from assignment 1 into a page which utilizes javascript and the react library. We then utilize Selenium to track metrics about user interaction within the webpage. Deliverables include a new readme[^1], images, and all code for the project.
+This project tasked us with duplicating our Assignment 2 project and removing the export to csv related functions in the Metric_tracker folder. We then initialize a database to store metrics gathered from our selenium code from the same file. Deliverables include a new readme[^1], images, and all code for the project.
 
 Time spent: **2** hours spent in total
 
