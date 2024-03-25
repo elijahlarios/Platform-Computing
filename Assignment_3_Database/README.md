@@ -1,6 +1,6 @@
 # Metric Tracker with Database
 
-PROVIDE OVERVIEW OF ASSIGNMENT HERE
+This project tasked us with transferring our static HTML page from assignment 1 into a page which utilizes javascript and the react library. We then utilize Selenium to track metrics about user interaction within the webpage. Deliverables include a new readme[^1], images, and all code for the project.
 
 Time spent: **2** hours spent in total
 
@@ -11,7 +11,7 @@ The following **required** features are completed:
 - [X] Organize Github projects for Assignment 3 (2 pts)
 - [X] Complete SQL Mystery Walkthrough and take a screenshot or print to PDF the webpage (2 pts)
 - [X] Complete Interactive MongoDB Tutorial and take a screenshot or print to PDF the webpage  (2 pts)
-- [X] Choose a SQL or NoSQL Database and set up a server (4 pts)
+- [X] Choose a SQL or NoSQL Database and set up a server[^2] (4 pts)
 - [X] Modify your metric_tracker file so that the metrics are saved onto a database (5 pts)
 
 The following **bonus** features are implemented:
@@ -26,12 +26,12 @@ The following **bonus** features are implemented:
 ## Screenshot and/or Video Walkthrough
 | Description | Image |
 | --- | --- |
-| SQL Mystery 1 | ![SQL Mystery 1](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/About_me_on_React.png) |
-| SQL Mystery 2 | ![SQL Mystery 2](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/Readme_Gifs/Selenium_tutorial.gif) |
+| SQL Mystery 1 | ![SQL Mystery 1](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_3_Database/Images/sql%20mystery%201.png) |
+| SQL Mystery 2 | ![SQL Mystery 2](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_3_Database/Images/sql%20mystery%202.png) |
 | MongoDB | ![MongoDB](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_3_Database/Images/mongodb%20tutorial.png) |
-| DB Results on Entrance | ![DB Results on Entrance](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/Readme_Gifs/metric_tracker.gif) |
-| DB Results (General) | ![DB Results (General)](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/metric_tracker_output.png) |
-| DB Results On Exit | ![DB Results On Exit](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_2_User_interactions/Images/metric_tracker_output.png) |
+| DB Results on Entrance | ![DB Results on Entrance](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_3_Database/Images/raw%20results%200.png) |
+| DB Results (General) | ![DB Results (General)](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_3_Database/Images/raw%20results%201.png) |
+| DB Results On Exit | ![DB Results On Exit](https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_3_Database/Images/raw%20results%202.png) |
 
 ### Notes
 [^1]: This file was renamed to README.md from A3_Readme.md so that github can parse the file when viewing the Repo
