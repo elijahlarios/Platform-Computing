@@ -22,7 +22,10 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_4_Generate_Users/images/question2.png" title='Terminal Output for Keyword User' width='' alt='Example Video Walkthrough' />
+<img src="https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_4_Generate_Users/images/question2.png" title='Terminal Output for Keyword User' width='' alt='Terminal Output for Keyword User' />
+<img src="https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_4_Generate_Users/images/question3.png" title='Terminal Output for Keyword User' width='' alt='Terminal Output for Keyword User' />
+<img src="https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_4_Generate_Users/images/question4.png" title='Terminal Output for Keyword User' width='' alt='Terminal Output for Keyword User' />
+<img src="https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_4_Generate_Users/images/question6.png" title='Terminal Output for Keyword User' width='' alt='Terminal Output for Keyword User' />
 
 
 ## Notes:
