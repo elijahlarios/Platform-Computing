@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
+<img src="https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_4_Generate_Users/images/question2.png" title='Terminal Output for Keyword User' width='' alt='Example Video Walkthrough' />
 
 
 ## Notes:
