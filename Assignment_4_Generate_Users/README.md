@@ -14,6 +14,7 @@ The following **required** features are completed:
 - [X] Create a user with affinity towards links and verify that it works (3 pts)
 - [X] Describe a user with unique affinities (1 pt)
 - [X] Create a user with unique affinities and verify that it works (3 pts)
+
 The following **bonus** features are implemented:
 
 - [X] Create a unique user with an affinity OUTSIDE of keywords, images, or links (1.5 pt)
@@ -32,12 +33,3 @@ This image demonstrates the terminal output when running Link User with an argum
 
 <img src="https://github.com/elijahlarios/Platform-Computing/blob/main/Assignment_4_Generate_Users/images/question6.png" title='Terminal Output for Unique User' width='' alt='Terminal Output for Unique User' />
 This image demonstrates the terminal output when running Unique User with an argument of both 0 and 1. My user prefers keywords the most–they want to find a website tailored to their exact needs. They will stay an additional duration of time if there are images and links, however, keyword is the main attraction they feature. When using an argument of 0, this means that we are accessing a website with my user's preference. When using an argument of 1, the preference is not present.
-
-
-
-## Notes:
-PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
-<ul>
-  <li>**Example in bold**</li>
-  <li>*Example in italics*</li>
-</ul>
