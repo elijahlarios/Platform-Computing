@@ -1,6 +1,7 @@
 # Generate Users
 
 This assigned us with creating 4 python scripts: Keyword_User, Image_User, Link_User, and Unique_User. In each script, we will write selenium users who have an affinity towards specific elements on a webpage. The Unique User script is the most unique, gathering all 3 affinities from before, along with an iframe. With a preference able to be set, the unique user can drastically increase the amount of time they spend on a website.
+
 Time spent: **4** hours spent in total
 
 ## Features
