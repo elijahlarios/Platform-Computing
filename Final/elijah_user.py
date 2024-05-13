@@ -9,9 +9,6 @@ from math import ceil
 DEBUG: bool = False
 
 def userAction(driver: WebDriver) -> None:
-    URL: str = 'https://platform-computing.vercel.app/assignment1.html'
-    driver.get(URL)
-
     start_time: float = time.time()
     presence_time: float = 0
 
@@ -71,6 +68,9 @@ def userAction(driver: WebDriver) -> None:
 
 def main() -> None:
     driver = Edge()
+    URL: str = 'https://platform-computing.vercel.app/assignment1.html'
+    driver.get(URL)
+
     userAction(driver)
     driver.quit()
 
